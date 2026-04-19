@@ -5,12 +5,11 @@
   margin: 0;
   outline: none;
   border: none;
-  box-sizing: border-box;
+  box-sizing: content-box;
 }
 
 img {
-  max-width: 100%;
-  height: auto;
+  width: 100%;
   display: grid;
 }
 
@@ -19,18 +18,16 @@ a {
 }
 
 body {
-  width: 100%;
-  overflow-x: hidden;
   font-family: "Poppins", sans-serif;
   background-color: #18181b;
   display: block;
-  margin: 0;
+  margin: 8px;
 }
 
 nav {
-  max-width: 100%;
+  max-width: 1200px;
   margin: auto;
-  padding: 1rem 1rem;
+  padding: 2rem 1rem;
   display: flex;
   align-items: center;
   justify-content: space-between;
