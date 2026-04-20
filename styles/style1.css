@@ -5,7 +5,7 @@
   margin: 0;
   outline: none;
   border: none;
-  box-sizing: content-box;
+  box-sizing: border-box;
 }
 
 img {
@@ -126,6 +126,9 @@ header .content p {
 }
 
 header .image img {
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
   border-top-left-radius: 25%;
   border-bottom-right-radius: 25%;
 }
