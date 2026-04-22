@@ -4,7 +4,7 @@
 
 ## Sobre
 
-Este projeto é um site de portfólio pessoal desenvolvido para demonstrar minhas habilidades em **Desenvolvimento Full Stack**. O site apresenta uma interface moderna e responsiva, com funcionalidades avançadas como modo escuro (dark mode), validação de formulários, navegação dinâmica e animações sutis.
+Este projeto é um site de portfólio pessoal desenvolvido para demonstrar minhas habilidades em **Desenvolvimento Full Stack**. O site apresenta uma interface moderna e responsiva, com validação de formulários, navegação dinâmica e animações sutis.
 
 O objetivo deste repositório é fornecer a um futuro empregador ou cliente uma visão clara das minhas capacidades técnicas e do trabalho prático que já realizei.
 
@@ -13,7 +13,6 @@ O objetivo deste repositório é fornecer a um futuro empregador ou cliente uma 
 | Funcionalidade              | Descrição                                                                  |
 | --------------------------- | -------------------------------------------------------------------------- |
 | **Responsividade**          | Menu de navegação adaptável para desktop e mobile (hambúrguer).            |
-| **Dark/Light Mode**         | Alternância entre temas com persistência no `localStorage`.                |
 | **Validação de Formulário** | Validação em tempo real com feedback visual sem recarregar a página.       |
 | **Efeitos Dinâmicos**       | Animações de digitação (typewriter) nos títulos principais.                |
 | **Performance**             | Código otimizado, sem dependências externas pesadas e carregamento rápido. |
