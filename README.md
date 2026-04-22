@@ -1,6 +1,6 @@
 # portfolio-ronny
 
-# 📄 Portfólio Web - Ronny Rufino
+# Portfólio Web - Ronny Rufino
 
 ## Sobre
 
