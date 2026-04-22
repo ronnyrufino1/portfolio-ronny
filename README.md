@@ -4,7 +4,7 @@
 
 ## Sobre
 
-Este projeto é um site de portfólio pessoal desenvolvido para demonstrar minhas habilidades em **Desenvolvimento Full Stack**. O site apresenta uma interface moderna e responsiva, com validação de formulários, navegação dinâmica e animações sutis.
+Este projeto é um site de portfólio pessoal desenvolvido para demonstrar minhas habilidades em **Desenvolvimento Web**. O site apresenta uma interface moderna e responsiva, com validação de formulários, navegação dinâmica e animações sutis.
 
 O objetivo deste repositório é fornecer a um futuro empregador ou cliente uma visão clara das minhas capacidades técnicas e do trabalho prático que já realizei.
 
@@ -22,7 +22,7 @@ O objetivo deste repositório é fornecer a um futuro empregador ou cliente uma 
 - **HTML5** - Estrutura semântica e acessível.
 - **CSS3** - Flexbox, Grid, Variáveis de Tema (`Custom Properties`) e Media Queries.
 - **JavaScript (Vanilla)** - Manipulação do DOM, `Event Listeners`, `localStorage` e lógica de animações.
-- **Acessibilidade** - Uso correto de atributos `aria-label`, `alt`, foco programático e leitores de tela.
+- **Acessibilidade** - Uso correto de atributo `alt`, foco programático e leitores de tela.
 
 ## Requisitos para Execução Local
 
